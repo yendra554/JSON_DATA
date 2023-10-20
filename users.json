@@ -1,0 +1,56 @@
+
+{
+    "users": [
+        {
+            "name": "Yendra",
+            "email": "yendra1998@gmail.com",
+            "age": 21,
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbCDZZfnTfo6P6OVAR4PEbLGDBPs3hkIocmS18c9Y6MA&s",
+            "address": [ {"current_address":["Mumbai","223122","900393903039"]}, {"home_address":["Lonawala-3733, house no -34","223122","8323023023"]} ],
+            "isProgrammer": false,
+            "skill": ["Angular","mongoDB"],
+            "isAdmin": false,
+            "license": null,
+            "shopItem":  ["food","oil","clothes"],
+            "objItem": {
+                "name":"nested",
+                "markes": 23,
+                "values": ["djed","hbhw",{"js": false} ]
+            }
+        },
+        {
+            "name": "Irshad",
+            "email": "irshad3213@gmail.com",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMv1pwwe9oVALyh_uxZgHCUrZVwCd1jlp0SLaE4DGjvQ&s",
+            "age": 21,
+            "address": [ {"current_address":["Delhi","223122","900393903039"]}, {"home_address":["saket-23, house no-2","223122","8323023023"]}],
+            "isProgrammer": false,
+            "skill": ["Angular","mongoDB"],
+            "isAdmin": true,
+            "license": "yes",
+            "shopItem":  ["food","oil","clothes"],
+            "objItem": {
+                "name":"nested",
+                "markes": 23,
+                "values": ["djed","hbhw",{"js": false} ]
+            }
+        },
+        {
+            "name": "sdede",
+            "email": "drfr@gmail.com",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkYqILmWPqDzFDpL_XpsZPe0llBgWciYpFHRw492RD&s",
+            "age": 21,
+            "address": [ {"current_address":["Delhi","223122","900393903039"]}, {"home_address":["Rajiv chowk,house no-ak apartment 234","223122","8323023023"]} ],
+            "isProgrammer": false,
+            "skill": ["Angular","mongoDB"],
+            "isAdmin": false,
+            "license": "No",
+            "shopItem":  ["food","oil","clothes"],
+            "objItem": {
+                "name":"nested",
+                "markes": 23,
+                "values": ["djed","hbhw",{"js": false} ]
+            }
+        }
+    ]
+}
